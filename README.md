@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ofomata
-- 👀 I’m interested in learning how to become a professional Web Dev;
-- 🌱 I’m currently learning frontend web development.
+- 👀 I’m a Frontend Developer.
+- 🤝 I'm looking forward to collaborate with other develpers or anyone.
 
 <!---
 ofomata/ofomata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
